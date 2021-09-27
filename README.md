@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Instalar depedência AXIOS
+```
+npm install axios --save
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
