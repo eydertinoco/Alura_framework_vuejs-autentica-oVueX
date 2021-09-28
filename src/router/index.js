@@ -19,7 +19,7 @@ const routes = [
     component: Gerentes
   },
   {
-    path: '/cadastrase',
+    path: '/cadastre-se',
     name: 'novo.usuario',
     component: NovoUsuario
   },
